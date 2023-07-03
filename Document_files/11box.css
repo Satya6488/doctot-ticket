@@ -1,0 +1,10 @@
+.box{
+    border: solid 5px black;
+    width: 250px;
+    /* margin-top: 150px; 
+    margin-bottom: 400px;
+    margin-left: 150px;
+    margin-right: 300px;/
+    */
+    margin: 100px 50px  400px 200px;
+}
